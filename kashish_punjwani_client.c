@@ -1,15 +1,3 @@
-/*
-Kashish Punjwani
-COSC 3360
-Due Date: 03/25/2020
-Client program that connects with the server, sending it requests for the weather report for a given city
-Sources:
-https://www.youtube.com/watch?v=eVYsIolL2gE ; series of tutorials discussing socket programming
-https://piazza.com/class_profile/get_resource/k4bjn3aw8qc2ov/k728tmpytds3ch ; article by Robert Ingalls 
-https://stackoverflow.com/questions/2693776/removing-trailing-newline-character-from-fgets-input ; remove '\n' from buffer
-https://www.geeksforgeeks.org/problem-with-scanf-when-there-is-fgetsgetsscanf-after-it/ ; how to read '\n' in the buffer left by scanf()
-*/
-
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
