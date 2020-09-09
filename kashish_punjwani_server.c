@@ -1,15 +1,3 @@
-/*
-Kashish Punjwani
-COSC 3360
-Due Date: 03/25/2020
-Server program that waits for connection requests: receives a city name from client and returns the max temperature and sky condition corresponding to that city
-Sources:
-https://www.youtube.com/watch?v=eVYsIolL2gE ; series of tutorials discussing socket programming
-https://piazza.com/class_profile/get_resource/k4bjn3aw8qc2ov/k728tmpytds3ch ; article by Robert Ingalls 
-https://stackoverflow.com/questions/15091284/read-comma-separated-input-with-scanf ; read comma-separated input
-https://www.programiz.com/c-programming/c-file-input-output ; open/read a file in C
-*/
-
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
